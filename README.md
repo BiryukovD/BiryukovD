@@ -12,7 +12,7 @@ SkillFactory по проекту от Федерации спортивного
 - :seedling: Завершил курс по Python-разработке от Skillfactory!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-BiryukovDmitry-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BiryukovDS) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-BiryukovDmitry-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BiryukovDS) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrijbirukov94@gmail.com)
 
 ---
 
