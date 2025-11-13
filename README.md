@@ -3,7 +3,7 @@
 I'm a Python Developer
 
 
-[![Telegram Badge](https://img.shields.io/badge/-BiryukovDmitry-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BiryukovDS) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrijbirukov94@gmail.com)
+
 
 ---
 
